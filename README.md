@@ -8,10 +8,12 @@ A comprehensive D-STAR and APRS communication application for the Kenwood TH-D74
 
 ## 📱 Installation
 
-1. Download the latest `.apk` file from the [Releases](https://github.com/rkarikari/thd74dv/releases) page
+1. Download the latest `.apk` file from the [Releases](https://github.com/rkarikari/TH-D74dv/releases) page
 2. On your Android device, enable **Settings → Security → Unknown Sources**
 3. Open the downloaded `.apk` file and follow the installation prompts
 4. Grant Bluetooth and Location permissions when requested
+https://github.com/rkarikari/TH-D74dv/blob/main/images/chat.jpg
+https://github.com/rkarikari/TH-D74dv/blob/main/images/dv.jpg
 
 ## 🚀 Quick Start
 
