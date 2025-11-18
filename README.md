@@ -14,7 +14,7 @@ A comprehensive D-STAR and APRS communication application for the Kenwood TH-D74
 4. Grant Bluetooth and Location permissions when requested
 
 ![Chat Image](https://raw.githubusercontent.com/rkarikari/TH-D74dv/main/images/chat.jpg)
-![DV Image](https://raw.githubusercontent.com/rkarikari/TH-D74dv/main/images/dv.jpg)
+![DV Image](https://raw.githubusercontent.com/rkarikari/TH-D74dv/main/images/map.jpg)
 
 ## 🚀 Quick Start
 
